@@ -1,0 +1,12 @@
+C:\Users\USUARIO\source\repos\GerenciadorLivros\BaseLibraryData\bin\Debug\net5.0\BaseLibraryData.deps.json
+C:\Users\USUARIO\source\repos\GerenciadorLivros\BaseLibraryData\bin\Debug\net5.0\BaseLibraryData.dll
+C:\Users\USUARIO\source\repos\GerenciadorLivros\BaseLibraryData\bin\Debug\net5.0\BaseLibraryData.pdb
+C:\Users\USUARIO\source\repos\GerenciadorLivros\BaseLibraryData\obj\Debug\net5.0\BaseLibraryData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\GerenciadorLivros\BaseLibraryData\obj\Debug\net5.0\BaseLibraryData.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\GerenciadorLivros\BaseLibraryData\obj\Debug\net5.0\BaseLibraryData.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\GerenciadorLivros\BaseLibraryData\obj\Debug\net5.0\BaseLibraryData.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\GerenciadorLivros\BaseLibraryData\obj\Debug\net5.0\BaseLibraryData.dll
+C:\Users\USUARIO\source\repos\GerenciadorLivros\BaseLibraryData\obj\Debug\net5.0\refint\BaseLibraryData.dll
+C:\Users\USUARIO\source\repos\GerenciadorLivros\BaseLibraryData\obj\Debug\net5.0\BaseLibraryData.pdb
+C:\Users\USUARIO\source\repos\GerenciadorLivros\BaseLibraryData\obj\Debug\net5.0\ref\BaseLibraryData.dll
+C:\Users\USUARIO\source\repos\GerenciadorLivros\BaseLibraryData\obj\Debug\net5.0\BaseLibraryData.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Vinicius\source\repos\GerenciadorLivros\BaseLibrary\bin\Debug\net5.0\BaseLibrary.exe
+C:\Users\Vinicius\source\repos\GerenciadorLivros\BaseLibrary\bin\Debug\net5.0\BaseLibrary.deps.json
+C:\Users\Vinicius\source\repos\GerenciadorLivros\BaseLibrary\bin\Debug\net5.0\BaseLibrary.runtimeconfig.json
+C:\Users\Vinicius\source\repos\GerenciadorLivros\BaseLibrary\bin\Debug\net5.0\BaseLibrary.runtimeconfig.dev.json
+C:\Users\Vinicius\source\repos\GerenciadorLivros\BaseLibrary\bin\Debug\net5.0\BaseLibrary.dll
+C:\Users\Vinicius\source\repos\GerenciadorLivros\BaseLibrary\bin\Debug\net5.0\ref\BaseLibrary.dll
+C:\Users\Vinicius\source\repos\GerenciadorLivros\BaseLibrary\bin\Debug\net5.0\BaseLibrary.pdb
+C:\Users\Vinicius\source\repos\GerenciadorLivros\BaseLibrary\obj\Debug\net5.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\source\repos\GerenciadorLivros\BaseLibrary\obj\Debug\net5.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\Vinicius\source\repos\GerenciadorLivros\BaseLibrary\obj\Debug\net5.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\Vinicius\source\repos\GerenciadorLivros\BaseLibrary\obj\Debug\net5.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\GerenciadorLivros\BaseLibrary\obj\Debug\net5.0\BaseLibrary.dll
+C:\Users\Vinicius\source\repos\GerenciadorLivros\BaseLibrary\obj\Debug\net5.0\ref\BaseLibrary.dll
+C:\Users\Vinicius\source\repos\GerenciadorLivros\BaseLibrary\obj\Debug\net5.0\BaseLibrary.pdb
+C:\Users\Vinicius\source\repos\GerenciadorLivros\BaseLibrary\obj\Debug\net5.0\BaseLibrary.genruntimeconfig.cache

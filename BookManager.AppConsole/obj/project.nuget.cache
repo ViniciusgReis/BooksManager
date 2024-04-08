@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Inlym8iWGC7icaL02gnms5jzCB7iJW1kSEr3UY6/eEB8JyuGVTQArRB3aEd+12HtUKAoBhJOXlei/DH4Z3uytw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USUARIO\\source\\repos\\GerenciadorLivros\\GerenciadorLivros.AppConsole\\BookManager.AppConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.5.0\\swashbuckle.aspnetcore.annotations.6.5.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
