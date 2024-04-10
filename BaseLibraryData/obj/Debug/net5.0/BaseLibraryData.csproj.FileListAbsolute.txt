@@ -10,3 +10,4 @@ C:\Users\USUARIO\source\repos\GerenciadorLivros\BaseLibraryData\obj\Debug\net5.0
 C:\Users\USUARIO\source\repos\GerenciadorLivros\BaseLibraryData\obj\Debug\net5.0\BaseLibraryData.pdb
 C:\Users\USUARIO\source\repos\GerenciadorLivros\BaseLibraryData\obj\Debug\net5.0\ref\BaseLibraryData.dll
 C:\Users\USUARIO\source\repos\GerenciadorLivros\BaseLibraryData\obj\Debug\net5.0\BaseLibraryData.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\GerenciadorLivros\BaseLibraryData\obj\Debug\net5.0\BaseLibraryData.sourcelink.json
